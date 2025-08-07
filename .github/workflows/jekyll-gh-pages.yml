@@ -1,0 +1,42 @@
+
+---
+
+layout: default title: Accueil
+
+<h1>Bienvenue au Super Tournoi de l’Ouest</h1>
+<p>Le plus grand tournoi de football petit poteau de l’Ouest de la Côte d’Ivoire. Une célébration du talent, de l’unité et de la passion pour le sport !</p>
+---
+
+layout: default title: Récompenses permalink: /recompenses/
+
+<h1>Récompenses</h1>
+<ul>
+  <li><strong>Vainqueur :</strong> 1 500 000 FCFA + Trophée</li>
+  <li><strong>2ème Place :</strong> 750 000 FCFA</li>
+  <li><strong>3ème Place :</strong> 250 000 FCFA</li>
+  <li><strong>Équipe Fair-play :</strong> 200 000 FCFA</li>
+  <li><strong>Meilleur Joueur :</strong> 100 000 FCFA</li>
+  <li><strong>Meilleur Buteur :</strong> 100 000 FCFA</li>
+  <li><strong>Meilleur Gardien :</strong> 100 000 FCFA</li>
+</ul>
+---
+
+layout: default title: Déroulement permalink: /deroulement/
+
+<h1>Déroulement de la Compétition</h1>
+<p>Le tournoi se jouera par phase de groupes suivie d’une phase à élimination directe.</p>
+<ul>
+  <li><strong>Phase de groupes :</strong> Les équipes seront réparties en poules.</li>
+  <li><strong>Quarts de finale :</strong> Les deux meilleures équipes de chaque poule accèdent aux quarts.</li>
+  <li><strong>Demi-finales :</strong> Les vainqueurs des quarts s’affrontent.</li>
+  <li><strong>Finale & match de classement :</strong> Les vainqueurs et perdants des demi-finales s’affrontent pour la 1re et 3e place.</li>
+</ul><p>Chaque équipe recevra un jeu de maillots personnalisés.</p>
+<p><strong>Frais de participation :</strong> 100 000 FCFA par équipe.</p>
+---
+
+layout: default title: Contact permalink: /contact/
+
+<h1>Contact</h1>
+<p>Email : <a href="mailto:supertournoidelouest@gmail.com">supertournoidelouest@gmail.com</a></p>
+<p>Téléphone : 07 03 20 23 00</p>
+<p>Suivez-nous pour ne rien manquer !</p>
