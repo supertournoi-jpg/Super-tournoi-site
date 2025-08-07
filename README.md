@@ -16,4 +16,4 @@ Ce tournoi vise à promouvoir le sport, la fraternité et le talent local à tra
 ## 📣 Contact
 
 Pour toute question ou demande de partenariat, veuillez nous contacter à :  
-📧 supertournoiouest@gmail.com
+📧 supertournoidelouest@gmail.com
