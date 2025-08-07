@@ -1,0 +1,86 @@
+<!DOCTYPE html><html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Super Tournoi de l'Ouest</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header, nav, main, footer {
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #007BFF;
+    }
+    section {
+      margin-top: 40px;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Super Tournoi de l'Ouest</h1>
+    <p>Un événement sportif régional d'envergure pour célébrer le talent, l'unité et l'espoir dans toute la région de l'Ouest.</p>
+  </header>  <nav>
+    <a href="#accueil">Accueil</a>
+    <a href="#recompenses">Récompenses</a>
+    <a href="#deroulement">Déroulement</a>
+    <a href="#contact">Contact</a>
+  </nav>  <main>
+    <section id="accueil">
+      <h2>Présentation</h2>
+      <p>Le Super Tournoi de l’Ouest est un tournoi de football petit poteau organisé pour promouvoir la fraternité et le développement à travers le sport. Chaque équipe reçoit un jeu de maillots personnalisé. La participation est fixée à 100 000 FCFA par équipe.</p>
+    </section><section id="recompenses">
+  <h2>Récompenses</h2>
+  <ul>
+    <li>Vainqueur : 1 500 000 FCFA + Trophée</li>
+    <li>2ème place : 750 000 FCFA</li>
+    <li>3ème place : 250 000 FCFA</li>
+    <li>Équipe fair-play : 200 000 FCFA</li>
+    <li>Meilleur joueur : 100 000 FCFA</li>
+    <li>Meilleur buteur : 100 000 FCFA</li>
+    <li>Meilleur gardien : 100 000 FCFA</li>
+  </ul>
+</section>
+
+<section id="deroulement">
+  <h2>Déroulement de la compétition</h2>
+  <p>Le tournoi se déroulera en plusieurs phases :</p>
+  <ul>
+    <li>Phase de groupes</li>
+    <li>1/4 de finales</li>
+    <li>1/2 finales</li>
+    <li>Finale</li>
+  </ul>
+  <p>Chaque match sera arbitré par des professionnels, et une animation sera assurée pour garantir une ambiance festive. Des stands, animations musicales, et espaces de restauration seront prévus.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email : <a href="mailto:supertournoidelouest@gmail.com">supertournoidelouest@gmail.com</a></p>
+  <p>Téléphone : 07 03 20 23 00</p>
+</section>
+
+  </main>  <footer>
+    <p>&copy; 2025 Super Tournoi de l'Ouest - Tous droits réservés</p>
+  </footer>
+</body>
+</html>
